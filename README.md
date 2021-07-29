@@ -37,7 +37,7 @@ Save the Bot file as text file with the given naming convention – Very Importa
 “YourEmailId_Bot_1”
 Submit the Bot file and output file
 
-*************************BFSI (Banking Financial Services and Insurance) Macros***************************
+*************************BFSI (Banking Financial Services and Insurance) Macros*************************
 
 Process Use Case
 
